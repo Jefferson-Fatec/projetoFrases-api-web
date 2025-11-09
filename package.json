@@ -1,0 +1,20 @@
+{
+  "name": "projetoFrases-api-web",
+  "version": "1.0.0",
+  "description": "projeto de exemplo para testes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No test\" && exit 0"
+  },
+  "keywords": [
+    "projeto"
+  ],
+  "author": "jefferson-fatec",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "morgan": "^1.10.1"
+  }
+}
